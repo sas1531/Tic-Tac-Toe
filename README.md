@@ -1,4 +1,4 @@
-# ITP_2018_Final_Project
+# Tic Tac Toe
 #### Lisa Katsnelson, Shaleigh Smith, Jill Westcott
 
 ---
